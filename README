@@ -1,3 +1,5 @@
 This is a command-line tool to turn a string into a string I can use for URLs or branch names.
 
 It's the first bit of python I've written in a while. Feels good, man.
+
+_usage: linkify.py some string remember to escape bash breaking things\?_
